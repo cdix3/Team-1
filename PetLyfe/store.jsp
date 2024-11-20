@@ -66,7 +66,7 @@
 <body>
 
 <div class="topnav">
-    <a href="#cart">PetLyfe</a>
+    <a href="#PetLyfe">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
 
