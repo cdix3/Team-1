@@ -800,4 +800,49 @@
         <div class="desc">Ball Stand Toy. $4.00</div>
     </div>
 </div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://www.catological.com/wp-content/uploads/2015/08/trixie_pet_products_cat_stand-300x300.jpg">
+            <img src="https://www.catological.com/wp-content/uploads/2015/08/trixie_pet_products_cat_stand-300x300.jpg" alt="Basic Cat Stand" width="600" height="400">
+        </a>
+        <div class="desc">Basic Cat Stand. $72.75</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://i5.walmartimages.com/asr/c5c4c398-cd6d-412e-9adb-dbe5d6caf593.805a133ca5864a2a899f32829f87d17b.jpeg">
+            <img src="https://i5.walmartimages.com/asr/c5c4c398-cd6d-412e-9adb-dbe5d6caf593.805a133ca5864a2a899f32829f87d17b.jpeg" alt="Triangle Cat Stand" width="600" height="400">
+        </a>
+        <div class="desc">Triangle Cat Stand. $75.57</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://images-na.ssl-images-amazon.com/images/I/71p4TI00ITL._AC_SL1500_.jpg">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/71p4TI00ITL._AC_SL1500_.jpg" alt="XL Cat Stand" width="600" height="400">
+        </a>
+        <div class="desc">Extra Tall Cat Stand. $115.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://i5.walmartimages.com/asr/bfa5a2e5-ee20-4cfb-b322-6e35c3dab326_1.29b7f9633c19a72c8a20c5d4d287ff32.jpeg">
+            <img src="https://i5.walmartimages.com/asr/bfa5a2e5-ee20-4cfb-b322-6e35c3dab326_1.29b7f9633c19a72c8a20c5d4d287ff32.jpeg" alt="Step Up Cat Stand" width="600" height="400">
+        </a>
+        <div class="desc">Step Up Cat Stand. $81.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://wholesaleeventtents.com/wp-content/uploads/2018/08/Deluxe-Large-Cat-Tree-Activity-Tower-Multilevel-Condo.jpg">
+            <img src="https://wholesaleeventtents.com/wp-content/uploads/2018/08/Deluxe-Large-Cat-Tree-Activity-Tower-Multilevel-Condo.jpg" alt="Deluxe Cat Stand" width="600" height="400">
+        </a>
+        <div class="desc">Deluxe Cat Stand. $141.00</div>
+    </div>
+</div>
 <div class="clearfix"></div>
