@@ -3207,3 +3207,1289 @@ img {
     </div>
   </body>
 </html>
+
+<!-- dog treat 1  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/e2aba80f-cb4e-457b-8e24-d040fd6da806.ec920f541607122f41e5b618083be6b9.jpeg">
+      </div>
+      <div class="text">
+        <h1>Milk Bone Flavored Treats. $16.99</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog treat 2  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/4f53a03d-2b43-4714-829a-14b9996b7352_1.a32cd61667d6482de407df4dbf89948f.jpeg">
+      </div>
+      <div class="text">
+        <h1>Blue Dog Low Fat Dog Treats. $14.50</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog treat 3  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://www.thesprucepets.com/thmb/iCkghHNEnz3ocoek43rn5K_0DdE=/fit-in/1223x1500/filters:no_upscale():max_bytes(150000):strip_icc()/PuppyChowHealthyStartSalmonFlavorTrainingDogTreats-9b211e2fab694d8196c9a14d5a921430.jpg">
+      </div>
+      <div class="text">
+        <h1>Purina Puppy Chow Training Treats. $15.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog treat 4  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/74ceeba3-32fa-48ac-b2b6-0f134f4026d5_1.e126a8e4b44258a2b467f10547a6c635.jpeg">
+      </div>
+      <div class="text">
+        <h1>Canine CarryOuts Hot Dog Minis. $13.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog treat 5  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/d4ed58d7-b213-44fd-82f0-184a234c26b7_2.4b42ce79db2c613c27f533941e2acada.jpeg">
+      </div>
+      <div class="text">
+        <h1>Pedigree Real Beef Flavor Dog Bones. $11.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog treat 6  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/acff3c23-ccd9-4721-96f8-74f0ae0bd120.ad609fe06b476a7cb9ab4495a4533cf1.jpeg">
+      </div>
+      <div class="text">
+        <h1>Pup-Peroni Lean Beef Flavored Treats. $13.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 1  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://www.chihuahuakingdom.com/wp-content/uploads/2018/03/DogLoveit-Rubber-Vinyl-Dumbbell-Squeaky-Dog-Toy-Large-Assorted-Colors-7.5-Inch.jpg">
+      </div>
+      <div class="text">
+        <h1>Rubber Dumbbell Squeak Toy 3 pack. $9.99</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 2  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/1b3b2dd5-b481-4530-aad7-4081b317679f_1.9c4ff84fbda36118ad821bc8b028f7b3.jpeg">
+      </div>
+      <div class="text">
+        <h1>Rubber Ball Toy with Hidden Treats. $5.99</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 3  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://images-na.ssl-images-amazon.com/images/I/81xE5osOAgL._AC_SL1500_.jpg">
+      </div>
+      <div class="text">
+        <h1>Large Tug of War Rope. $6.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 4  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://img.chewy.com/is/image/catalog/90245_MAIN._AC_SL1500_V1527093604_.jpg">
+      </div>
+      <div class="text">
+        <h1>Neon Rubber Ball Squeak Toy. $4.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 5  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://images-na.ssl-images-amazon.com/images/I/712ewvZBlEL._SL1500_.jpg">
+      </div>
+      <div class="text">
+        <h1>Orange Plastic Treat Dispensing Ball. $8.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- toy 6  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://m.media-amazon.com/images/I/61grMr1ol5L._AC_SL1500_.jpg">
+      </div>
+      <div class="text">
+        <h1>Neon Worm Dog Toy. $3.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+
