@@ -785,3 +785,6 @@ body {
     <div class="desc">Add a description of the image here</div>
   </div>
 </div>
+
+![Screenshot 2024-11-20 125329](https://github.com/user-attachments/assets/c25dc9a1-7696-442c-9b64-63cf267bc968)
+# updated colors and descriptions
