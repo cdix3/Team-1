@@ -69,7 +69,7 @@
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -176,7 +176,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -283,7 +283,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -390,7 +390,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -497,7 +497,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -604,7 +604,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -711,7 +711,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -818,7 +818,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -925,7 +925,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1032,7 +1032,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1139,7 +1139,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1246,7 +1246,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1353,7 +1353,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1460,7 +1460,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1567,7 +1567,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1674,7 +1674,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1781,7 +1781,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1888,7 +1888,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -1995,7 +1995,7 @@ img {
     <a href="#cart">PetLyfe</a>
     <b href="#cart">Cart</b>
 </div>
-<!DOCTYPE html>
+
 <html>
   <head>
     <title>Pretty Paris</title>
@@ -2024,6 +2024,220 @@ img {
       </div>
       <div class="text">
         <h1>Matching Blue Bowl Set. $20.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- bowl 2  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/80eeb4b5-8046-4382-a3d8-d0575e008f05_1.15a46e134b0122fcb8d3d558f91bede3.jpeg">
+      </div>
+      <div class="text">
+        <h1>Metal Bowl Set. $17.99</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- bowl 3  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://petco.scene7.com/is/image/PETCO/2699273-center-1">
+      </div>
+      <div class="text">
+        <h1>Slow Feeder Dog Bowl. $18.50</h1>
         <div class="right button" >
         <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
       </div>
