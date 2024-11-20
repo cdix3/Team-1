@@ -4492,4 +4492,645 @@ img {
   </body>
 </html>
 
+<!-- dog bed 1  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://images-na.ssl-images-amazon.com/images/I/91cUIHaE-lL._SL1500_.jpg">
+      </div>
+      <div class="text">
+        <h1>Large Red Dog Bed. $22.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog bed 2  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://cdn.shopify.com/s/files/1/0070/9971/1557/products/IMG_3470_2.JPG?v=1570256901">
+      </div>
+      <div class="text">
+        <h1>Wood Frame Dog Bed. $32.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog bed 3  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://image.chewy.com/is/image/catalog/206588_MAIN._AC_SL1500_V1573071783_.jpg">
+      </div>
+      <div class="text">
+        <h1>Fuzzy Dog Bed. $28.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog bed 4  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/a3c2162a-8122-4437-9286-80aac04265e3_2.4b15f8e9540c182988f0b76f0accaa35.jpeg">
+      </div>
+      <div class="text">
+        <h1>Rainbow Dog Bed. $26.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog bed 5  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://post.bark.co/wp-content/uploads/2014/06/81lRuykNgcL._SL1500_.jpg">
+      </div>
+      <div class="text">
+        <h1>Large Dog Bed. $25.00</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
+
+<!-- dog bed 6  -->
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+        * {box-sizing: border-box;}
+
+        body {
+            margin: 0;
+            font-family: Garamond, serif;
+        }
+
+        .topnav {
+            overflow: hidden;
+            background-color: mediumpurple;
+        }
+
+        .topnav a {
+            float: left;
+            display: block;
+            color: yellow;
+            text-align: center;
+            padding: 20px 20px;
+            text-decoration: none;
+            font-size: 30px;
+        }
+
+        .active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+
+        .topnav b {
+            float: right;
+            display: block;
+            color: yellow;
+            background-color: mediumpurple;
+            text-align: center;
+            padding: 22px 20px;
+            text-decoration: none;
+            font-size: 25px;
+        }
+
+        .topnav b:hover {
+            background-color: rebeccapurple;
+            color: yellow;
+        }
+
+        .topnav b.active {
+            background-color: mediumpurple;
+            color: yellow;
+        }
+        @media screen and (max-width: 600px) {
+            .topnav a, .topnav b {
+                float: none;
+                display: block;
+                text-align: left;
+                width: 100%;
+                margin: 0;
+                padding: 10px;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="topnav">
+    <a href="#cart">PetLyfe</a>
+    <b href="#cart">Cart</b>
+</div>
+
+<html>
+  <head>
+    <title>Pretty Paris</title>
+  </head>
+  <style>
+  .container {
+  display: flex;
+  align-items: center;
+  justify-content: center
+}
+
+img {
+  max-width: 100%;
+  max-height:100%;
+}
+
+.text {
+  font-size: 20px;
+  padding-left: 20px;
+}
+  </style>
+  <body>
+    <div class="container">
+      <div class="image">
+        <img src="https://i5.walmartimages.com/asr/02b88659-5fbc-443d-a013-c44885227a28.ff1dc96f39a8a555e5287d680d8b84b7.jpeg">
+      </div>
+      <div class="text">
+        <h1>Small Dog Bed. $24.75</h1>
+        <div class="right button" >
+        <button style = "background-color: rebeccapurple; color: yellow; background-size:8vw; font-size:10vw; font-family: Garamond, serif;">Add to Cart</button>
+      </div>
+    </div>
+  </body>
+</html>
 
