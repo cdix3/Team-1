@@ -506,6 +506,87 @@
 
 <div class="responsive">
     <div class="gallery">
+        <a target="_blank" href="https://images-na.ssl-images-amazon.com/images/I/91cUIHaE-lL._SL1500_.jpg">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/91cUIHaE-lL._SL1500_.jpg" alt="Red Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Large Red Dog Bed. $22.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://cdn.shopify.com/s/files/1/0070/9971/1557/products/IMG_3470_2.JPG?v=1570256901">
+            <img src="https://cdn.shopify.com/s/files/1/0070/9971/1557/products/IMG_3470_2.JPG?v=1570256901" alt="Wood Frame Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Wood Frame Dog Bed. $32.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://image.chewy.com/is/image/catalog/206588_MAIN._AC_SL1500_V1573071783_.jpg">
+            <img src="https://image.chewy.com/is/image/catalog/206588_MAIN._AC_SL1500_V1573071783_.jpg" alt="Fuzzy Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Fuzzy Dog Bed. $28.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://i5.walmartimages.com/asr/a3c2162a-8122-4437-9286-80aac04265e3_2.4b15f8e9540c182988f0b76f0accaa35.jpeg">
+            <img src="https://i5.walmartimages.com/asr/a3c2162a-8122-4437-9286-80aac04265e3_2.4b15f8e9540c182988f0b76f0accaa35.jpeg" alt="Rainbow Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Rainbow Dog Bed. $26.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://post.bark.co/wp-content/uploads/2014/06/81lRuykNgcL._SL1500_.jpg">
+            <img src="https://post.bark.co/wp-content/uploads/2014/06/81lRuykNgcL._SL1500_.jpg" alt="Large Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Large Dog Bed. $25.00</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://i5.walmartimages.com/asr/02b88659-5fbc-443d-a013-c44885227a28.ff1dc96f39a8a555e5287d680d8b84b7.jpeg">
+            <img src="https://i5.walmartimages.com/asr/02b88659-5fbc-443d-a013-c44885227a28.ff1dc96f39a8a555e5287d680d8b84b7.jpeg" alt="Small Dog Bed" width="600" height="400">
+        </a>
+        <div class="desc">Small Dog Bed. $24.75</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://images-na.ssl-images-amazon.com/images/I/71GgNyPYRHL._AC_SL1500_.jpg">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/71GgNyPYRHL._AC_SL1500_.jpg" alt="Bulk Poop Bags" width="600" height="400">
+        </a>
+        <div class="desc">Bulk Poop Bags. $24.75</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://images-na.ssl-images-amazon.com/images/I/713iF3x8pgL._SL1500_.jpg">
+            <img src="https://images-na.ssl-images-amazon.com/images/I/713iF3x8pgL._SL1500_.jpg" alt="Purple Poop Bags" width="600" height="400">
+        </a>
+        <div class="desc">Purple Poop Bags. $24.75</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://i5.walmartimages.com/asr/fb2a1cc3-edfe-4145-8ea1-be9a82b97b3e_1.e76c30ea6dfe415c07e641ca7b90bc93.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff">
+            <img src="https://i5.walmartimages.com/asr/fb2a1cc3-edfe-4145-8ea1-be9a82b97b3e_1.e76c30ea6dfe415c07e641ca7b90bc93.jpeg?odnWidth=1000&odnHeight=1000&odnBg=ffffff" alt="Blue Poop Bags" width="600" height="400">
+        </a>
+        <div class="desc">Blue Poop Bags. $2.75</div>
+    </div>
+</div>
+
+<div class="responsive">
+    <div class="gallery">
         <a target="_blank" href="https://i5.walmartimages.com/asr/f413ea66-ec7c-4582-ab00-e526decdd200_3.03718d2e9c3df95295bd4f5fad91e1a6.png">
             <img src="https://i5.walmartimages.com/asr/f413ea66-ec7c-4582-ab00-e526decdd200_3.03718d2e9c3df95295bd4f5fad91e1a6.png" alt="Friskies" width="600" height="400">
         </a>
