@@ -282,3 +282,207 @@
         <div class="desc">2 mo. old female kitten. $10.00 </div>
     </div>
 </div>
+
+<!--Dog 1-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188731072">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188731072" alt="Brown Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: TBD</div>
+    </div>
+</div>
+
+<!--Dog 2-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1167025461">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1167025461" alt="Grey Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Catfish</div>
+    </div>
+</div>
+
+
+<!--Dog 3-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1182434643">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1182434643" alt="Brindle Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: Athena</div>
+    </div>
+</div>
+
+<!--Dog 4-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/573092943">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/573092943" alt="Brindle Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: Bella</div>
+    </div>
+</div>
+
+<!--Dog 5-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188638845">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188638845" alt="White Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Bona Lisa</div>
+    </div>
+</div>
+
+<!--Dog 6-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1171115974">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1171115974" alt="Brown Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Bubba</div>
+    </div>
+</div>
+
+<!--Dog 7-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186936372">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186936372" alt="Brown Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Caesar</div>
+    </div>
+</div>
+
+<!--Dog 8-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1179779878">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1179779878" alt="White and Black Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Chase</div>
+    </div>
+</div>
+
+<!--Dog 9-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188278243">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1188278243" alt="Black Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Dale</div>
+    </div>
+</div>
+
+<!--Dog 10-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1157486450">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1157486450" alt="German Shepard"width="600" height="400">
+        </a>
+        <div class="desc">Name: Ford</div>
+    </div>
+</div>
+
+<!--Dog 11-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1175419339">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1175419339" alt="Brown Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: George</div>
+    </div>
+</div>
+
+<!--Dog 12-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1170820221">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1170820221" alt="White and Black Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Keegan</div>
+    </div>
+</div>
+
+
+<!--Dog 13-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186907640">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186907640" alt="Scruffy Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: Lena</div>
+    </div>
+</div>
+
+
+<!--Dog 14-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186046904">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1186046904" alt="Rot Mixed Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Mac</div>
+    </div>
+</div>
+
+<!--Dog 15-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1187727233">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1187727233" alt="White and Brown Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Moonpie</div>
+    </div>
+</div>
+
+<!--Dog 16-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1136038491">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1136038491" alt="Tan Puppy"width="600" height="400">
+        </a>
+        <div class="desc">Name: Nigel</div>
+    </div>
+</div>
+
+<!--Dog 17-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1187386091">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1187386091" alt="Brown Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Pinto</div>
+    </div>
+</div>
+
+<!--Dog 18-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1184619492">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1184619492" alt="Brown Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Snail</div>
+    </div>
+</div>
+
+<!--Dog 19-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1185116702">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1185116702" alt="Tan Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Wishbone</div>
+    </div>
+</div>
+
+<!--Dog 20-->
+<div class="responsive">
+    <div class="gallery">
+        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1184381734">
+            <img src="https://media.adoptapet.com/image/upload/dpr_1.5,c_fit,h_250/e_sharpen/f_auto,q_auto/1184381734" alt="White Dog"width="600" height="400">
+        </a>
+        <div class="desc">Name: Truman</div>
+    </div>
+</div>
+
