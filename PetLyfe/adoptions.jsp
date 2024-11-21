@@ -107,7 +107,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1121886927">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1121886927" alt="cat"width="600" height="400">
         </a>
-        <div class="desc">6 month old female cat $10.00</div>
+        <div class="desc">Name:Ali</div>
     </div>
 </div>
 
@@ -117,7 +117,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147536507">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147536507" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">Adult Male Cat. $10.00</div>
+        <div class="desc">Name:Arthur</div>
     </div>
 </div>
 
@@ -126,7 +126,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186591833">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186591833" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">1 mo. old female kitten. $10.00</div>
+        <div class="desc">Name:Amalia</div>
     </div>
 </div>
 
@@ -135,7 +135,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147594380">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147594380" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">6 mo. old male kitten. $10.00</div>
+        <div class="desc">Name:Ash</div>
     </div>
 </div>
 
@@ -144,7 +144,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1170507074">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1170507074" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">6 mo. old female cat. $10.00 </div>
+        <div class="desc">Name:Mittens </div>
     </div>
 </div>
 
@@ -153,7 +153,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187385938">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187385938" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">3 mo. old male kitten. $10.00 </div>
+        <div class="desc">Name: Ballou </div>
     </div>
 </div>
 
@@ -162,7 +162,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935130">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935130" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">4 mo. old female kitten. $10.00 </div>
+        <div class="desc">Name: Bella </div>
     </div>
 </div>
  
@@ -171,7 +171,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935129">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935129" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">3 year old female cat. $10.00 </div>
+        <div class="desc">Name: Blue </div>
     </div>
 </div>
 
@@ -180,7 +180,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1152786478">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1152786478" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">7 year old male cat. $10.00 </div>
+        <div class="desc">Name:Billy</div>
     </div>
 </div>
 
@@ -189,7 +189,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187998540">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187998540" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">1 year old female cat. $10.00 </div>
+        <div class="desc">Name: Clementine</div>
     </div>
 </div>
 
@@ -198,7 +198,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1163087463">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1163087463" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">5 mo. old female kitten. $10.00 </div>
+        <div class="desc">Name:Doja </div>
     </div>
 </div>
 
@@ -207,7 +207,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1180960323">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1180960323" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 mo. old female kitten. $10.00 </div>
+        <div class="desc">Name: Elle </div>
     </div>
 </div>
 
@@ -216,7 +216,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186173311">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186173311" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">adult female cat. $10.00 </div>
+        <div class="desc">Name: Faith </div>
     </div>
 </div>
 
@@ -225,7 +225,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385985">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385985" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 mo. old male kitten. $10.00 </div>
+        <div class="desc">Name:Dex </div>
     </div>
 </div>
 
@@ -234,7 +234,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188667785">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188667785" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 mo. old female kitten. $10.00 </div>
+        <div class="desc">Name: Fergie </div>
     </div>
 </div>
 
@@ -243,7 +243,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147066046">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147066046" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 year old male cat. $10.00 </div>
+        <div class="desc">Name: Fire </div>
     </div>
 </div>
 
@@ -252,7 +252,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1185553725">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1185553725" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">1 year old female cat. $10.00 </div>
+        <div class="desc">Name: Fransesca </div>
     </div>
 </div>
 
@@ -261,7 +261,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1184389055">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1184389055" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">adult female cat. $10.00 </div>
+        <div class="desc">Name:Hope</div>
     </div>
 </div>
 
@@ -270,7 +270,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187863041">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187863041" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 year old female cat. $10.00 </div>
+        <div class="desc">Name:Sally </div>
     </div>
 </div>
 
@@ -279,7 +279,7 @@
         <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385981">
             <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385981" alt="cat" width="600" height="400">
         </a>
-        <div class="desc">2 mo. old female kitten. $10.00 </div>
+        <div class="desc">Name:Gabby</div>
     </div>
 </div>
 
