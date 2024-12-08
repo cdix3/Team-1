@@ -104,8 +104,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1121886927">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1121886927" alt="cat"width="600" height="400">
+        <a target="_blank" href="https://www.petbarn.com.au/petspot/app/uploads/2019/01/kitten-000017380158_Smaller.jpg">
+            <img src="https://www.petbarn.com.au/petspot/app/uploads/2019/01/kitten-000017380158_Smaller.jpg" alt="cat"width="600" height="400">
         </a>
         <div class="desc">Name:Ali</div>
     </div>
@@ -114,8 +114,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147536507">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147536507" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://cat-world.com/wp-content/uploads/2019/04/bambino-cat.jpg">
+            <img src="https://cat-world.com/wp-content/uploads/2019/04/bambino-cat.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Arthur</div>
     </div>
@@ -123,8 +123,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186591833">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186591833" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallpapercave.com/wp/BzpgP00.jpg">
+            <img src="https://wallpapercave.com/wp/BzpgP00.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Amalia</div>
     </div>
@@ -132,8 +132,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147594380">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147594380" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://i.pinimg.com/originals/f1/81/b4/f181b47ae5a4e12aa824f0965d24643d.jpg">
+            <img src="https://i.pinimg.com/originals/f1/81/b4/f181b47ae5a4e12aa824f0965d24643d.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Ash</div>
     </div>
@@ -141,8 +141,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1170507074">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1170507074" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://i.pinimg.com/originals/da/e3/f6/dae3f6c9e213f125027519498f936fd5.jpg">
+            <img src="https://i.pinimg.com/originals/da/e3/f6/dae3f6c9e213f125027519498f936fd5.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Mittens </div>
     </div>
@@ -150,8 +150,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187385938">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187385938" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallpapercave.com/wp/z5R3gNO.jpg">
+            <img src="https://wallpapercave.com/wp/z5R3gNO.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Ballou </div>
     </div>
@@ -159,8 +159,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935130">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935130" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallpapercave.com/wp/hXxZ8z6.jpg">
+            <img src="https://wallpapercave.com/wp/hXxZ8z6.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Bella </div>
     </div>
@@ -168,8 +168,8 @@
  
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935129">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1173935129" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://3.bp.blogspot.com/-e9iaysd5X1E/UDJmovqjrYI/AAAAAAAAAaE/lQVAJcSeCtA/s1600/catpicturess+(4).jpg">
+            <img src="https://3.bp.blogspot.com/-e9iaysd5X1E/UDJmovqjrYI/AAAAAAAAAaE/lQVAJcSeCtA/s1600/catpicturess+(4).jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Blue </div>
     </div>
@@ -177,8 +177,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1152786478">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1152786478" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallup.net/wp-content/uploads/2019/09/708260-kittens-kitten-cat-cats-baby-cute.jpg">
+            <img src="https://wallup.net/wp-content/uploads/2019/09/708260-kittens-kitten-cat-cats-baby-cute.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Billy</div>
     </div>
@@ -186,8 +186,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187998540">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187998540" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallup.net/wp-content/uploads/2018/10/06/708149-kittens-kitten-cat-cats-baby-cute-s.jpg">
+            <img src="https://wallup.net/wp-content/uploads/2018/10/06/708149-kittens-kitten-cat-cats-baby-cute-s.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Clementine</div>
     </div>
@@ -195,8 +195,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1163087463">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1163087463" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/9/9b/Photo_of_a_kitten.jpg">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Photo_of_a_kitten.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Doja </div>
     </div>
@@ -204,8 +204,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1180960323">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1180960323" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://wallpaperaccess.com/full/94041.jpg">
+            <img src="https://wallpaperaccess.com/full/94041.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Elle </div>
     </div>
@@ -213,8 +213,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186173311">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1186173311" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://static.vecteezy.com/system/resources/previews/002/410/747/original/cute-siamese-cat-on-yellow-background-free-photo.jpg">
+            <img src="https://static.vecteezy.com/system/resources/previews/002/410/747/original/cute-siamese-cat-on-yellow-background-free-photo.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Faith </div>
     </div>
@@ -222,8 +222,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385985">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385985" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://www.rd.com/wp-content/uploads/2019/04/shutterstock_1013848126.jpg">
+            <img src="https://www.rd.com/wp-content/uploads/2019/04/shutterstock_1013848126.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Dex </div>
     </div>
@@ -231,8 +231,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188667785">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188667785" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://www.lifewithcats.tv/wp-content/uploads/2017/01/Screen-Shot-2017-01-26-at-5.49.55-PM.png">
+            <img src="https://www.lifewithcats.tv/wp-content/uploads/2017/01/Screen-Shot-2017-01-26-at-5.49.55-PM.png" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Fergie </div>
     </div>
@@ -240,8 +240,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147066046">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1147066046" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://c.pxhere.com/photos/7c/ac/cat_black_autumn_street_homeless-849677.jpg!s1">
+            <img src="https://c.pxhere.com/photos/7c/ac/cat_black_autumn_street_homeless-849677.jpg!s1" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Fire </div>
     </div>
@@ -249,8 +249,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1185553725">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1185553725" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://www.fourpaws.com/-/media/Project/OneWeb/FourPaws/Images/articles/cat-corner/small-cat-breeds/munchkin-cropped.jpg">
+            <img src="https://www.fourpaws.com/-/media/Project/OneWeb/FourPaws/Images/articles/cat-corner/small-cat-breeds/munchkin-cropped.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name: Fransesca </div>
     </div>
@@ -258,8 +258,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1184389055">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1184389055" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://image.petmd.com/files/styles/863x625/public/2023-04/kitten-development.jpeg">
+            <img src="https://image.petmd.com/files/styles/863x625/public/2023-04/kitten-development.jpeg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Hope</div>
     </div>
@@ -267,8 +267,8 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187863041">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1187863041" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://i2.wp.com/earthnworld.com/wp-content/uploads/2017/05/Siamese-Cat.jpg">
+            <img src="https://i2.wp.com/earthnworld.com/wp-content/uploads/2017/05/Siamese-Cat.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Sally </div>
     </div>
@@ -276,12 +276,13 @@
 
 <div class="responsive">
     <div class="gallery">
-        <a target="_blank" href="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385981">
-            <img src="https://media.adoptapet.com/image/upload/dpr_auto,c_fit,h_400/e_sharpen/f_auto,q_auto/1188385981" alt="cat" width="600" height="400">
+        <a target="_blank" href="https://images6.fanpop.com/image/photos/41500000/cute-black-kittens-kittens-41556775-1688-1368.jpg">
+            <img src="https://images6.fanpop.com/image/photos/41500000/cute-black-kittens-kittens-41556775-1688-1368.jpg" alt="cat" width="600" height="400">
         </a>
         <div class="desc">Name:Gabby</div>
     </div>
 </div>
+
 
 <!--Dog 1-->
 <div class="responsive">
