@@ -53,11 +53,11 @@
 <head>
     <style>
         div.gallery {
-            border: 1px rebeccapurple;
+            border: 1px solid #ccc;
         }
 
         div.gallery:hover {
-            border: 1px rebeccapurple;
+            border: 1px solid #777;
         }
 
         div.gallery img {
