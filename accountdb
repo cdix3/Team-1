@@ -1,0 +1,16 @@
+CREATE TABLE accountinfo(
+    user_id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100),
+    username VARCHAR(50),
+    phone VARCHAR(15)
+    email VARCHAR(100) UNIQUE,
+    password_hash VARCHAR(255),
+);
+
+CREATE TABLE petprofile(
+  user_id INT AUTO_INCREMENT PRIMARY KEY,
+  pet_name VARCHAR(100),
+  pet_type VARCHAR(50),
+  breed VARCHAR(50),
+  size VARCHAR(20),
+);
