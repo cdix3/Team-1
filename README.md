@@ -11,3 +11,4 @@ Complete pet adoptions
 Link to download: https://www.jetbrains.com/idea/download/?section=windows        
                                                                                                                   2. Install Tomcat 9.0 or have an open source web server that hosts Java- based web applications 
                                                                                                                   3. To run code on IntelliJ IDE make sure tomcat is connected to the run/debug configurations 
+                                                                                                                  4. Clone Repository 
