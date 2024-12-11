@@ -108,5 +108,18 @@
 <div class="right button">
     <button style = "background-color: rebeccapurple; color: white; background-size:8vw; font-size:10vw; font-family: Garamond, serif;" >Playdates</button>
 </div>
+<script>
+    function storeRedirect(){
+        window.location.href = "Store.jsp";
+    }
+
+    function adoptionRedirect(){
+        window.location.href= "Adoptions.jsp";
+    }
+
+    function eventsRedirect(){
+        window.location.href = "Playdates.jsp";
+    }
+</script>
 </body>
 </html>
