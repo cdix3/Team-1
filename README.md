@@ -15,4 +15,4 @@ Link to download: https://www.jetbrains.com/idea/download/?section=windows
 # Running the code
 1 Once all files are downloaded onto IDE and are ready, run the code
                                                                                                                    2 A website should pop up showing the main page (you can find the code for this under Webapp file, named index.jsp)
-                                                                                                                   Once the website pops up it will show you three buttons all labelled with where they will take you.
+                                                                                                                   3 Once the website pops up it will show you three buttons all labelled with where they will take you.
